@@ -1,0 +1,9 @@
+Ejercicios para trabajar con el docente
+
+0) La imagen Tv32png.png es una micrografía de un filamento de oro nanoporoso. 
+El área indicada corresponde a la zona a partir del cual trabajaron sobre el final de la clase pasada.
+
+1) Intente hacer lo mismo (transformar, elegir haz/punto iluminado y antitrasformar) para la figura S4_E10_hrem2_box.tif, que corresponde a un extracto de S4_E10_hrem2.tif
+
+2) Practique filtrar las imágenes auto.png, DocenteQuemado.png y Suelo.jpg
+
